@@ -56,25 +56,28 @@ O repositório está organizado para refletir o avanço nas 3 etapas principais 
     |                 |
     +---- N:1 ----+---+----> [ Avaliação ]]
 ```
+---
 
-📁 Como Executar o Projeto
-Pré-requisitos
-.NET SDK instalado (versão 8.0 ou superior recomendada).
+---
 
-IDE de sua preferência (Visual Studio / VS Code).
+## 📁 Como Executar o Projeto
 
-Passo a Passo
-Clone este repositório:
+### Pré-requisitos
+- .NET SDK instalado (versão 8.0 ou superior recomendada).
+- IDE de sua preferência (Visual Studio / VS Code).
 
-Bash
-git clone [https://github.com/SEU_USUARIO/ScreenSound.git](https://github.com/SEU_USUARIO/ScreenSound.git)
-Acesse a pasta do projeto:
+### Passo a Passo
 
-Bash
-cd ScreenSound
-Restaure as dependências e execute:
+1. **Clone este repositório:**
+`git clone https://github.com/SEU_USUARIO/ScreenSound.git`
 
-Bash
-dotnet restore
-dotnet run
-Feito com 💙 por Gustavo durante os estudos na Alura!
+2. **Acesse a pasta do projeto:**
+`cd ScreenSound`
+
+3. **Restaure as dependências e execute:**
+`dotnet restore`
+`dotnet run`
+
+---
+
+Feito com 💙 por [Gustavo](git@github.com:Gustavo-cazumba/ScreenSound.git) durante os estudos na **Alura**!
